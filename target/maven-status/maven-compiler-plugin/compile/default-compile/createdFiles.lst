@@ -1,5 +1,0 @@
-com\kouhao\spring\ApplicationMain.class
-com\kouhao\spring\service\BeanFactoryAwareTest.class
-com\kouhao\spring\service\ApplicationContextAwareTest.class
-com\kouhao\spring\service\BeanNameAwareTest.class
-com\kouhao\spring\web\TestController.class
