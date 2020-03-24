@@ -19,7 +19,7 @@ public class BeanFactoryAwareTest implements BeanFactoryAware {
   @Override
   public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
     this.beanFactory = beanFactory;
-    System.out.println("init beanFactory:" + beanFactory.toString());
+    System.out.println("init beanfactory:" + beanFactory.toString());
   }
 
   public BeanFactory getBeanFactory() {
